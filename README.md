@@ -6,3 +6,8 @@
 ### run 
 * node src/server.js
 
+## image 
+
+![image-1](https://github.com/Jardielson-s/graphql-yoge/blob/main/image.png)
+
+![image-2](https://github.com/Jardielson-s/graphql-yoge/blob/main/image2.png)
