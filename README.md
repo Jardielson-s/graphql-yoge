@@ -3,6 +3,10 @@
 * graphql-yoga
 * mongoose
 
+### information
+* use docker to connect with database
+* mongodb://localhost:27017/mongodb
+
 ### run 
 * node src/server.js
 
